@@ -11,5 +11,8 @@ In the second step I will add and pad mask tokens between the words and will ask
 
 An end-to-end implementation of the problem is provided in this project.
 
+For example:
+
 ![image](https://user-images.githubusercontent.com/111754948/205605450-6c911976-422a-414d-bb7e-3b6c3c5429b5.png)
+width=50% height=50%>
 
