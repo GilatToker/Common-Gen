@@ -10,3 +10,6 @@ In the first step, a parsing algorithm will arrange the constraints (the words) 
 In the second step I will add and pad mask tokens between the words and will ask a generator to complete the masked spans, e.g. {apple, pick, eat} → {pick, apple, eat} → [mask] pick [mask] apple [mask] eat [mask] →  A kid picked an apple from the tree and ate it. Depending on the need, we would like to be able to generate one word, two words, or more for each mask, and sometimes nothing at all. Furthermore, we would like the model to be able to inflect the roots of words he receives.
 
 An end-to-end implementation of the problem is provided in this project.
+
+![image](https://user-images.githubusercontent.com/111754948/205605450-6c911976-422a-414d-bb7e-3b6c3c5429b5.png)
+
