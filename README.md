@@ -11,7 +11,7 @@ In the second step I will add and pad mask tokens between the words and will ask
 
 An end-to-end implementation of the problem is provided in this project.
 
-For example:
+Here is an example of the model's output
 
 <img src="https://user-images.githubusercontent.com/111754948/205606745-e3ffb1c5-d25e-4cf0-838a-e1804db565fa.png" width=50% height=50%>
 
